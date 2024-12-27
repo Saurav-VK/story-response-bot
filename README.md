@@ -13,3 +13,7 @@ Example:
 ```python
 input_data = ["Once upon a time, there was a brave knight.", "Who was brave?"]
 ```
+
+4. datasets:
+   the training and testing datasets are named 'train-qa.txt' and 'test-qa.txt' respectively and is available in the reposiotyr for downloading.
+   Use pickle to manipulate those files as shown in the code.
